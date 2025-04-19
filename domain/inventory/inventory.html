@@ -1,0 +1,74 @@
+<head>
+    <title>{{ title }} - csDB</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"> -->
+    <link rel="shortcut icon" href="https://www.nba.com/favicon-32x32.png" type="image/png">
+
+</head>
+
+<body>
+    <div id="background" >
+        <div class="overlay"></div>
+    </div>
+    <div class="App-header">
+        <!-- <img src="https://www.nba.com/apple-touch-icon.png" class="App-logo" alt="logo" /> -->
+        <a href="http://localhost:5000/"><h1>csDB</h1></a>
+    </div>
+    <div class="App-body">
+        <table>
+            <tr>
+                <form  action="/inventory/add" method="POST">
+
+                    <td>
+                        <input type="text" name="quantity" placeholder="Quantity" required>
+                    </td>
+                    <td>
+                        <input type="text" name="name" placeholder="Name / Market URL" required>
+                    </td>
+                    <td>
+                        <select name="type">
+                            {% for item in type_selection %}
+                            <option value="{{item}}">{{item}}</option>
+                            {% endfor %}
+                        </select>
+                    </td>
+                    <!-- <td style="background-color: #0000"></td> -->
+                    <td>
+                        <input type="hidden" name="steamid" value="{{steamid}}">
+                        <button type="submit" >Submit</button>
+                    </td>
+                </form>
+            </tr>
+        </table>
+        <table>
+            <th>Name</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Total</th>
+            {% for item in cursor %}
+            <form  action="/inventory/alter" method="POST">
+                <input type="hidden" name="steamid" value="{{steamid}}">
+                <tr>
+                    <td>
+                        <input type="hidden" name="item" value="{{item["name"]}}">
+                        {{item["name"]}}
+                    </td>
+                    <td>
+                    <!-- <td style="width: 11%;"> -->
+                        <div style="text-align: left;">
+                            <input class="inline" type="text" name="quantity" value="{{item["quantity"]}}" required onclick="this.select();">
+                            <button type="submit">Update</button>
+                        </div>
+                    </td>
+                    <td>{{item["price"]}}</td>
+                    <td>{{item["total price"]}}</td>
+                </tr>
+            </form>
+            {% endfor %}
+        </table>
+    </div>
+
+</body>
+    
+</html>

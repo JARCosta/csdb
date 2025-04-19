@@ -1,0 +1,920 @@
+{
+  "G3SG1 | Desert Storm (Battle-Scarred)": {
+    "quantity": 1,
+    "name": "G3SG1 | Desert Storm (Battle-Scarred)",
+    "type": "Weapon",
+    "price": null
+  },
+  "Revolution Case": {
+    "quantity": 1,
+    "name": "Revolution Case",
+    "type": "Container",
+    "price": null
+  },
+  "G3SG1 | Jungle Dashed (Minimal Wear)": {
+    "quantity": 1,
+    "name": "G3SG1 | Jungle Dashed (Minimal Wear)",
+    "type": "Weapon",
+    "price": null
+  },
+  "Sealed Graffiti | Tombstone (Wire Blue)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Tombstone (Wire Blue)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Quickdraw (Blood Red)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Quickdraw (Blood Red)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Nova | Candy Apple (Minimal Wear)": {
+    "quantity": 1,
+    "name": "Nova | Candy Apple (Minimal Wear)",
+    "type": "Weapon",
+    "price": null
+  },
+  "Sealed Graffiti | GTG (Violent Violet)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | GTG (Violent Violet)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Tec-9 | VariCamo (Field-Tested)": {
+    "quantity": 1,
+    "name": "Tec-9 | VariCamo (Field-Tested)",
+    "type": "Weapon",
+    "price": null
+  },
+  "MP9 | Orange Peel (Battle-Scarred)": {
+    "quantity": 1,
+    "name": "MP9 | Orange Peel (Battle-Scarred)",
+    "type": "Weapon",
+    "price": null
+  },
+  "Music Kit | 3kliksphilip, Heading for the Source": {
+    "quantity": 1,
+    "name": "Music Kit | 3kliksphilip, Heading for the Source",
+    "type": "Music Kit",
+    "price": null
+  },
+  "Tec-9 | Urban DDPAT (Field-Tested)": {
+    "quantity": 1,
+    "name": "Tec-9 | Urban DDPAT (Field-Tested)",
+    "type": "Weapon",
+    "price": null
+  },
+  "Nova | Mandrel (Minimal Wear)": {
+    "quantity": 1,
+    "name": "Nova | Mandrel (Minimal Wear)",
+    "type": "Weapon",
+    "price": null
+  },
+  "SCAR-20 | Carbon Fiber (Factory New)": {
+    "quantity": 1,
+    "name": "SCAR-20 | Carbon Fiber (Factory New)",
+    "type": "Weapon",
+    "price": null
+  },
+  "M4A1-S | VariCamo (Field-Tested)": {
+    "quantity": 1,
+    "name": "M4A1-S | VariCamo (Field-Tested)",
+    "type": "Weapon",
+    "price": null
+  },
+  "AK-47 | Vulcan (Well-Worn)": {
+    "quantity": 1,
+    "name": "AK-47 | Vulcan (Well-Worn)",
+    "type": "Weapon",
+    "price": null
+  },
+  "SSG 08 | Red Stone (Minimal Wear)": {
+    "quantity": 1,
+    "name": "SSG 08 | Red Stone (Minimal Wear)",
+    "type": "Weapon",
+    "price": null
+  },
+  "MAG-7 | SWAG-7 (Field-Tested)": {
+    "quantity": 1,
+    "name": "MAG-7 | SWAG-7 (Field-Tested)",
+    "type": "Weapon",
+    "price": null
+  },
+  "MP5-SD | Co-Processor (Factory New)": {
+    "quantity": 1,
+    "name": "MP5-SD | Co-Processor (Factory New)",
+    "type": "Weapon",
+    "price": null
+  },
+  "Sawed-Off | Apocalypto (Field-Tested)": {
+    "quantity": 1,
+    "name": "Sawed-Off | Apocalypto (Field-Tested)",
+    "type": "Weapon",
+    "price": null
+  },
+  "Sealed Graffiti | Quickdraw (Monarch Blue)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Quickdraw (Monarch Blue)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Eye Spy (SWAT Blue)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Eye Spy (SWAT Blue)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Quickdraw (Frog Green)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Quickdraw (Frog Green)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | GGWP (Tracer Yellow)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | GGWP (Tracer Yellow)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Backstab (Battle Green)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Backstab (Battle Green)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Eat It (Tiger Orange)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Eat It (Tiger Orange)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | 8-Ball (Desert Amber)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | 8-Ball (Desert Amber)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Glock-18 | Nuclear Garden (Field-Tested)": {
+    "quantity": 1,
+    "name": "Glock-18 | Nuclear Garden (Field-Tested)",
+    "type": "Weapon",
+    "price": null
+  },
+  "Sealed Graffiti | Eco (Jungle Green)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Eco (Jungle Green)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Mr. Teeth (Blood Red)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Mr. Teeth (Blood Red)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sticker | Shifty Tactics": {
+    "quantity": 1,
+    "name": "Sticker | Shifty Tactics",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Choose Wisely": {
+    "quantity": 1,
+    "name": "Sticker | Choose Wisely",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Free Range": {
+    "quantity": 1,
+    "name": "Sticker | Free Range",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Endless Cycle": {
+    "quantity": 1,
+    "name": "Sticker | Endless Cycle",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Cbbl (Holo)": {
+    "quantity": 1,
+    "name": "Sticker | Cbbl (Holo)",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Monster": {
+    "quantity": 1,
+    "name": "Sticker | Monster",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Green's Problem": {
+    "quantity": 1,
+    "name": "Sticker | Green's Problem",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sealed Graffiti | GGWP (Blood Red)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | GGWP (Blood Red)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "\u2605 Ursus Knife | Damascus Steel (Field-Tested)": {
+    "quantity": 1,
+    "name": "\u2605 Ursus Knife | Damascus Steel (Field-Tested)",
+    "type": "Weapon",
+    "price": null
+  },
+  "Chroma Case": {
+    "quantity": 1,
+    "name": "Chroma Case",
+    "type": "Container",
+    "price": null
+  },
+  "Desert Eagle | Kumicho Dragon (Field-Tested)": {
+    "quantity": 1,
+    "name": "Desert Eagle | Kumicho Dragon (Field-Tested)",
+    "type": "Weapon",
+    "price": null
+  },
+  "P250 | See Ya Later (Field-Tested)": {
+    "quantity": 1,
+    "name": "P250 | See Ya Later (Field-Tested)",
+    "type": "Weapon",
+    "price": null
+  },
+  "Sticker | jabbi | Antwerp 2022": {
+    "quantity": 1,
+    "name": "Sticker | jabbi | Antwerp 2022",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Plopski | Antwerp 2022": {
+    "quantity": 1,
+    "name": "Sticker | Plopski | Antwerp 2022",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sealed Graffiti | Quickdraw (Battle Green)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Quickdraw (Battle Green)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "StatTrak\u2122 Tec-9 | Brother (Field-Tested)": {
+    "quantity": 1,
+    "name": "StatTrak\u2122 Tec-9 | Brother (Field-Tested)",
+    "type": "Weapon",
+    "price": null
+  },
+  "UMP-45 | Arctic Wolf (Field-Tested)": {
+    "quantity": 1,
+    "name": "UMP-45 | Arctic Wolf (Field-Tested)",
+    "type": "Weapon",
+    "price": null
+  },
+  "StatTrak\u2122 Sawed-Off | Apocalypto (Battle-Scarred)": {
+    "quantity": 1,
+    "name": "StatTrak\u2122 Sawed-Off | Apocalypto (Battle-Scarred)",
+    "type": "Weapon",
+    "price": null
+  },
+  "Sealed Graffiti | Double (Cash Green)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Double (Cash Green)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "M4A4 | Evil Daimyo (Field-Tested)": {
+    "quantity": 1,
+    "name": "M4A4 | Evil Daimyo (Field-Tested)",
+    "type": "Weapon",
+    "price": null
+  },
+  "Sticker | Boombl4 | Stockholm 2021": {
+    "quantity": 1,
+    "name": "Sticker | Boombl4 | Stockholm 2021",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Perfecto (Holo) | Stockholm 2021": {
+    "quantity": 1,
+    "name": "Sticker | Perfecto (Holo) | Stockholm 2021",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | s1mple | Stockholm 2021": {
+    "quantity": 1,
+    "name": "Sticker | s1mple | Stockholm 2021",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | b1t (Holo) | Stockholm 2021": {
+    "quantity": 1,
+    "name": "Sticker | b1t (Holo) | Stockholm 2021",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Yellow Jaggyfish": {
+    "quantity": 1,
+    "name": "Sticker | Yellow Jaggyfish",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Green Lethal": {
+    "quantity": 1,
+    "name": "Sticker | Green Lethal",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sealed Graffiti | Lambda (War Pig Pink)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Lambda (War Pig Pink)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Danger Zone Case": {
+    "quantity": 1,
+    "name": "Danger Zone Case",
+    "type": "Container",
+    "price": null
+  },
+  "Sticker | Green Bombster": {
+    "quantity": 1,
+    "name": "Sticker | Green Bombster",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Yellow Lethal": {
+    "quantity": 1,
+    "name": "Sticker | Yellow Lethal",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sealed Graffiti | Rage Mode (Wire Blue)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Rage Mode (Wire Blue)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sticker | Green Shark Shooter": {
+    "quantity": 1,
+    "name": "Sticker | Green Shark Shooter",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Miami Stabbyfish": {
+    "quantity": 1,
+    "name": "Sticker | Miami Stabbyfish",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Black Shark Shooter": {
+    "quantity": 1,
+    "name": "Sticker | Black Shark Shooter",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sealed Graffiti | GTG (Tracer Yellow)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | GTG (Tracer Yellow)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "SG 553 | Waves Perforated (Field-Tested)": {
+    "quantity": 1,
+    "name": "SG 553 | Waves Perforated (Field-Tested)",
+    "type": "Weapon",
+    "price": null
+  },
+  "Sealed Graffiti | Sheriff (Frog Green)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Sheriff (Frog Green)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Double (Brick Red)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Double (Brick Red)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sticker | Badge of Service": {
+    "quantity": 1,
+    "name": "Sticker | Badge of Service",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sealed Graffiti | Bling (Tracer Yellow)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Bling (Tracer Yellow)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Nova | Polar Mesh (Field-Tested)": {
+    "quantity": 1,
+    "name": "Nova | Polar Mesh (Field-Tested)",
+    "type": "Weapon",
+    "price": null
+  },
+  "Sealed Graffiti | Worry (Frog Green)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Worry (Frog Green)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Jump Shot (Brick Red)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Jump Shot (Brick Red)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Tilt (Frog Green)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Tilt (Frog Green)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Eat It (Desert Amber)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Eat It (Desert Amber)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Double (Frog Green)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Double (Frog Green)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Eye Spy (War Pig Pink)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Eye Spy (War Pig Pink)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sticker | Shattered Web": {
+    "quantity": 1,
+    "name": "Sticker | Shattered Web",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sealed Graffiti | Eye Spy (Jungle Green)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Eye Spy (Jungle Green)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Prof. Shahmat | Elite Crew": {
+    "quantity": 1,
+    "name": "Prof. Shahmat | Elite Crew",
+    "type": "Agent",
+    "price": null
+  },
+  "Sealed Graffiti | Okay (Violent Violet)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Okay (Violent Violet)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Quickdraw (Tracer Yellow)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Quickdraw (Tracer Yellow)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Silver Bullet (Cash Green)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Silver Bullet (Cash Green)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Markus Delrow | FBI HRT": {
+    "quantity": 1,
+    "name": "Markus Delrow | FBI HRT",
+    "type": "Agent",
+    "price": null
+  },
+  "Sealed Graffiti | GGEZ (Battle Green)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | GGEZ (Battle Green)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Denied (Brick Red)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Denied (Brick Red)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Tilt (Tracer Yellow)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Tilt (Tracer Yellow)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Five-SeveN | Capillary (Field-Tested)": {
+    "quantity": 1,
+    "name": "Five-SeveN | Capillary (Field-Tested)",
+    "type": "Weapon",
+    "price": null
+  },
+  "Sealed Graffiti | Cocky (Bazooka Pink)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Cocky (Bazooka Pink)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | BEEP (Monarch Blue)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | BEEP (Monarch Blue)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | GTG (Monarch Blue)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | GTG (Monarch Blue)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Jump Shot (Wire Blue)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Jump Shot (Wire Blue)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Bling (Tiger Orange)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Bling (Tiger Orange)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Cocky (SWAT Blue)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Cocky (SWAT Blue)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sticker | qikert | Berlin 2019": {
+    "quantity": 1,
+    "name": "Sticker | qikert | Berlin 2019",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | SicK | Berlin 2019": {
+    "quantity": 1,
+    "name": "Sticker | SicK | Berlin 2019",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | RpK | Berlin 2019": {
+    "quantity": 1,
+    "name": "Sticker | RpK | Berlin 2019",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | oBo | Berlin 2019": {
+    "quantity": 1,
+    "name": "Sticker | oBo | Berlin 2019",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sealed Graffiti | Bling (Wire Blue)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Bling (Wire Blue)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sticker | TACO | Berlin 2019": {
+    "quantity": 1,
+    "name": "Sticker | TACO | Berlin 2019",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Lucky | Berlin 2019": {
+    "quantity": 1,
+    "name": "Sticker | Lucky | Berlin 2019",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | shox | Berlin 2019": {
+    "quantity": 1,
+    "name": "Sticker | shox | Berlin 2019",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | loWel | Berlin 2019": {
+    "quantity": 1,
+    "name": "Sticker | loWel | Berlin 2019",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sealed Graffiti | Keep the Change (Cash Green)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Keep the Change (Cash Green)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Backstab (Shark White)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Backstab (Shark White)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | X-Axes (Tracer Yellow)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | X-Axes (Tracer Yellow)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | QQ (Wire Blue)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | QQ (Wire Blue)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Tombstone (Battle Green)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Tombstone (Battle Green)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | GGEZ (Frog Green)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | GGEZ (Frog Green)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Keep the Change (Jungle Green)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Keep the Change (Jungle Green)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | GGWP (Jungle Green)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | GGWP (Jungle Green)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Eco (Monster Purple)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Eco (Monster Purple)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Eat It (Monster Purple)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Eat It (Monster Purple)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Lambda (Wire Blue)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Lambda (Wire Blue)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Chess King (Violent Violet)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Chess King (Violent Violet)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Sealed Graffiti | Backstab (Violent Violet)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Backstab (Violent Violet)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "Souvenir MP5-SD | Lab Rats (Field-Tested)": {
+    "quantity": 1,
+    "name": "Souvenir MP5-SD | Lab Rats (Field-Tested)",
+    "type": "Weapon",
+    "price": null
+  },
+  "Sealed Graffiti | Tombstone (Monster Purple)": {
+    "quantity": 1,
+    "name": "Sealed Graffiti | Tombstone (Monster Purple)",
+    "type": "Graffiti",
+    "price": null
+  },
+  "G3SG1 | Polar Camo (Field-Tested)": {
+    "quantity": 1,
+    "name": "G3SG1 | Polar Camo (Field-Tested)",
+    "type": "Weapon",
+    "price": null
+  },
+  "SCAR-20 | Contractor (Field-Tested)": {
+    "quantity": 1,
+    "name": "SCAR-20 | Contractor (Field-Tested)",
+    "type": "Weapon",
+    "price": null
+  },
+  "StatTrak\u2122 MP9 | Bioleak (Minimal Wear)": {
+    "quantity": 1,
+    "name": "StatTrak\u2122 MP9 | Bioleak (Minimal Wear)",
+    "type": "Weapon",
+    "price": null
+  },
+  "Desert Eagle | Oxide Blaze (Minimal Wear)": {
+    "quantity": 1,
+    "name": "Desert Eagle | Oxide Blaze (Minimal Wear)",
+    "type": "Weapon",
+    "price": null
+  },
+  "AWP | Pit Viper (Minimal Wear)": {
+    "quantity": 1,
+    "name": "AWP | Pit Viper (Minimal Wear)",
+    "type": "Weapon",
+    "price": null
+  },
+  "XM1014 | Blue Steel (Well-Worn)": {
+    "quantity": 1,
+    "name": "XM1014 | Blue Steel (Well-Worn)",
+    "type": "Weapon",
+    "price": null
+  },
+  "MAG-7 | Metallic DDPAT (Factory New)": {
+    "quantity": 1,
+    "name": "MAG-7 | Metallic DDPAT (Factory New)",
+    "type": "Weapon",
+    "price": null
+  },
+  "USP-S | Guardian (Factory New)": {
+    "quantity": 1,
+    "name": "USP-S | Guardian (Factory New)",
+    "type": "Weapon",
+    "price": null
+  },
+  "Glock-18 | Bunsen Burner (Field-Tested)": {
+    "quantity": 1,
+    "name": "Glock-18 | Bunsen Burner (Field-Tested)",
+    "type": "Weapon",
+    "price": null
+  },
+  "Recoil Case": {
+    "quantity": 2,
+    "name": "Recoil Case",
+    "type": "Container",
+    "price": null
+  },
+  "Sticker | Perfecto | Stockholm 2021": {
+    "quantity": 2,
+    "name": "Sticker | Perfecto | Stockholm 2021",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Fools Gold Wave Rider": {
+    "quantity": 2,
+    "name": "Sticker | Fools Gold Wave Rider",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Blue Shark Shooter": {
+    "quantity": 2,
+    "name": "Sticker | Blue Shark Shooter",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Toxic Tentaskull": {
+    "quantity": 2,
+    "name": "Sticker | Toxic Tentaskull",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Green Gnar": {
+    "quantity": 2,
+    "name": "Sticker | Green Gnar",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Watermelon Stabbyfish": {
+    "quantity": 2,
+    "name": "Sticker | Watermelon Stabbyfish",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Green Cyclawps": {
+    "quantity": 2,
+    "name": "Sticker | Green Cyclawps",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | White Bombster": {
+    "quantity": 2,
+    "name": "Sticker | White Bombster",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Blood Moon Wave Rider": {
+    "quantity": 2,
+    "name": "Sticker | Blood Moon Wave Rider",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Purple Jaggyfish": {
+    "quantity": 2,
+    "name": "Sticker | Purple Jaggyfish",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Ocean Sunset Stabbyfish": {
+    "quantity": 2,
+    "name": "Sticker | Ocean Sunset Stabbyfish",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Red Cyclawps": {
+    "quantity": 2,
+    "name": "Sticker | Red Cyclawps",
+    "type": "Sticker",
+    "price": null
+  },
+  "Fracture Case": {
+    "quantity": 3,
+    "name": "Fracture Case",
+    "type": "Container",
+    "price": null
+  },
+  "Dreams & Nightmares Case": {
+    "quantity": 3,
+    "name": "Dreams & Nightmares Case",
+    "type": "Container",
+    "price": null
+  },
+  "Snakebite Case": {
+    "quantity": 3,
+    "name": "Snakebite Case",
+    "type": "Container",
+    "price": null
+  },
+  "Sticker | Purple Bombster": {
+    "quantity": 3,
+    "name": "Sticker | Purple Bombster",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Blue Lethal": {
+    "quantity": 3,
+    "name": "Sticker | Blue Lethal",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Watermelon Tentaskull": {
+    "quantity": 3,
+    "name": "Sticker | Watermelon Tentaskull",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Miami Wave Rider": {
+    "quantity": 3,
+    "name": "Sticker | Miami Wave Rider",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | After Hours Stabbyfish": {
+    "quantity": 3,
+    "name": "Sticker | After Hours Stabbyfish",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Pink Jaggyfish": {
+    "quantity": 3,
+    "name": "Sticker | Pink Jaggyfish",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | SANJI | Berlin 2019": {
+    "quantity": 3,
+    "name": "Sticker | SANJI | Berlin 2019",
+    "type": "Sticker",
+    "price": null
+  },
+  "Clutch Case": {
+    "quantity": 4,
+    "name": "Clutch Case",
+    "type": "Container",
+    "price": null
+  },
+  "Sticker | b1t | Stockholm 2021": {
+    "quantity": 4,
+    "name": "Sticker | b1t | Stockholm 2021",
+    "type": "Sticker",
+    "price": null
+  },
+  "Sticker | Toxic Wave Rider": {
+    "quantity": 4,
+    "name": "Sticker | Toxic Wave Rider",
+    "type": "Sticker",
+    "price": null
+  },
+  "Paris 2023 Challengers Autograph Capsule": {
+    "quantity": 14,
+    "name": "Paris 2023 Challengers Autograph Capsule",
+    "type": "StickerCapsule",
+    "price": null
+  }
+}
